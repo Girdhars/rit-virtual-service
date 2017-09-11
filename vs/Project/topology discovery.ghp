@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><_c buildID="I20170626_1422" certificateAuthority="KEY_1024_BITS" comments="Project created on September 11, 2017" creationVersion="9.1.0" domain="domain1" extDocPrefix="" name="topology discovery" nff="true" owner="GIRDHARS" rulesCacheUri="%%PROJECT/ROOT%%Rules" uuid="0000015e-6fcc-38d0-0001-4205b6bc5967">
+  <dateTimeConfig date="yyyy/MM/dd" dateTime="dd-MMM-yyyy HH:mm:ss" time="HH:mm:ss.SSS"/>
+   <serverSettings ghRepositoryURL="http://localhost:7819/RTCP">
+      <dbConnectionParameters maxConnections="5" poolName="DefaultPoolName">
+         <connectionParams CICSEnv="false" MVSEnv="false" ZOSEnv="false" driverClass="" password="#com.ghc.1!410c" recordFilters="" url="" user="">
+            <stubSettings maxProcCallCount="10000" maxResultSetRowCount="10000" maxRowCount="10000" password="#com.ghc.1!ec04" procedureLearningBehaviour="1" schema="" url="" useIntegratedDB="true" user=""/>
+            <storedProcedureFilter catalogFilterEnabled="false" catalogFilterPattern="" procedureFilterEnabled="false" procedureFilterPattern="" schemaFilterEnabled="true" schemaFilterPattern="" storedProceduresRetrievalEnabled="false" useConnectionUsername="true"/>
+            <timestampFormatting timestampFormatZero="false" timestampFormattingEnabled="false" timestampPrecision="9"/>
+         </connectionParams>
+      </dbConnectionParameters>
+   </serverSettings>
+   <permissionsSettings autoLogin="true" host="DVCIDC3" permFactId="ldap.permissions.factory.none" port="389" pswd="2jmj7l5rSw0yVb/vlWAYkK/YBwk="/>
+</_c>
